@@ -8,8 +8,8 @@ spring:
       label: master
       server:
         git:
-          search-paths: respo
-          uri: https://github.com/forezp/SpringcloudConfig/
+          search-paths: cloudconfig
+          uri: https://github.com/pinggavin/
           username:
           password:
 
